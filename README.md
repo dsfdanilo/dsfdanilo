@@ -1,5 +1,5 @@
 ## Olá, eu sou o Danilo França!
-<div align="center">
+<div align="display: inline_block">
   <a href="https://github.com/dsfdanilo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dsfdanilo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsfdanilo&layout=compact&langs_count=7&theme=dracula"/>
@@ -16,7 +16,3 @@
   <a href = "mailto:danilo.s.franca@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danilo-silva-franca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
-<!---
-dsfdanilo/dsfdanilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
